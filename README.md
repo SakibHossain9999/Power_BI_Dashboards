@@ -47,7 +47,7 @@ power-bi-dashboards/
 │   │   └── brew_heaven_data.xlsx
 │   └── screenshots/
 │       └── Screenshot (169).png
-        └── Screenshot (170).png│
+        └── Screenshot (170).png
 └── cookie-bliss-sales/
     ├── README.md
     ├── Cookie_Bliss_Sales_Dashboard.pbix
