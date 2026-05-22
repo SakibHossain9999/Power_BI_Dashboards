@@ -11,8 +11,8 @@
 
 ## 📊 Dashboard preview
 
-> _Screenshot coming soon — export from Power BI and place in `/screenshots/`_
-> `![Dashboard Screenshot](screenshots/brew-heaven-dashboard.png)`
+![Dashboard Screenshot](screenshots/Screenshot (169).png)
+![Dashboard Screenshot](screenshots/Screenshot (170).png)
 
 ---
 
