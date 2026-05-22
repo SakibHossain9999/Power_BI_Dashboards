@@ -11,7 +11,7 @@
 
 ## 📊 Dashboard preview
 
-> `![Dashboard Screenshot]([screenshots/cookie-bliss-dashboard.png](https://github.com/SakibHossain9999/Power_BI_Dashboards/blob/main/cookie-bliss-sales/screenshots/cookie-bliss-dashboard.png))`
+> `![Dashboard Screenshot](https://github.com/SakibHossain9999/Power_BI_Dashboards/blob/main/cookie-bliss-sales/screenshots/cookie-bliss-dashboard.png))`
 
 ---
 
