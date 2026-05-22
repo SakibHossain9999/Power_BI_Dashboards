@@ -67,4 +67,4 @@ power-bi-dashboards/
 ## 👤 Author
 
 **Mohammad Sakib Hossain**
-[GitHub Profile]([https://github.com/YOUR_USERNAME](https://github.com/SakibHossain9999))
+[GitHub Profile](https://github.com/SakibHossain9999)
