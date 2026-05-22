@@ -53,7 +53,7 @@ This dashboard explores sales performance, customer loyalty, and inventory healt
 brew-heaven-coffee-sales/
 │
 ├── data/
-│   └── brew_heaven_data.xlsx                 ← Source dataset
+│   └── brew_heaven_data_final.xlsx                 ← Source dataset
 ├── screenshots/
 │   ├── Screenshot (169).png                  ← Dashboard preview
 │   └── Screenshot (170).png                  ← Dashboard preview
