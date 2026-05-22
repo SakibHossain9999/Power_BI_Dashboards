@@ -52,8 +52,8 @@ This dashboard analyses sales performance for **Cookie Bliss** — a fictional c
 cookie-bliss-sales/
 │
 ├── data/
-│   ├── cookie_bliss_data.xlsx                ← Full dataset (150+ orders)
-│   └── cookie_bliss_practice.xlsx                ← Practice dataset (10 orders)
+│   ├── cookie_bliss_data.xlsx                ← Cookie Data
+│   └── cookie_bliss_practice.xlsx               
 ├── screenshots/
 │   └── cookie-bliss-dashboard.png            ← Dashboard preview
 ├── Cookie_Bliss_Sales_Dashboard.pbix         ← Power BI report
