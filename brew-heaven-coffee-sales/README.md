@@ -52,11 +52,12 @@ This dashboard explores sales performance, customer loyalty, and inventory healt
 ```
 brew-heaven-coffee-sales/
 │
-├── Brew_Heaven_Coffee_Sales_Dashboard.pbix   ← Power BI report
 ├── data/
 │   └── brew_heaven_data.xlsx                 ← Source dataset
 ├── screenshots/
-│   └── brew-heaven-dashboard.png             ← Dashboard preview
+│   ├── Screenshot (169).png                  ← Dashboard preview
+│   └── Screenshot (170).png                  ← Dashboard preview
+├── Brew_Heaven_Coffee_Sales_Dashboard.pbix   ← Power BI report
 └── README.md
 ```
 
