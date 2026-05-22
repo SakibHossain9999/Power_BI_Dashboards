@@ -11,8 +11,8 @@
 
 ## 📊 Dashboard preview
 
-![Dashboard Screenshot](screenshots/Screenshot (169).png)
-![Dashboard Screenshot](screenshots/Screenshot (170).png)
+![Dashboard Screenshot](screenshots/Screenshot%20(169).png)
+![Dashboard Screenshot](screenshots/Screenshot%20(170).png)
 
 ---
 
