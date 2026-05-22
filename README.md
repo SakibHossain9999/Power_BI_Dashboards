@@ -40,31 +40,23 @@ power-bi-dashboards/
 │
 ├── README.md                               ← You are here
 │
-├── blue-bull-sales/
+├── brew-heaven-coffee-sales/
 │   ├── README.md
 │   ├── data/
-│   │   └── blue_bull_practice.xlsx
+│   │   └── brew_heaven_data.xlsx
 │   ├── screenshots/
-│   │   └── blue-bull-dashboard.png
-│   └── Blue_Bull_Sales_Dashboard.pbix
+│   │   ├── Screenshot (169).png
+│   │   └── Screenshot (170).png
+│   └── Brew_Heaven_Coffee_Sales_Dashboard.pbix
 │
-├── cookie-bliss-sales/
-│   ├── README.md
-│   ├── data/
-│   │   ├── cookie_bliss_data.xlsx
-│   │   └── cookie_bliss_practice.xlsx
-│   ├── screenshots/
-│   │   └── cookie-bliss-dashboard.png
-│   └── Cookie_Bliss_Sales_Dashboard.pbix
-│
-└── brew-heaven-coffee-sales/
+└── cookie-bliss-sales/
     ├── README.md
     ├── data/
-    │   └── brew_heaven_data.xlsx
+    │   ├── cookie_bliss_data.xlsx
+    │   └── cookie_bliss_practice.xlsx
     ├── screenshots/
-    │   ├── Screenshot (169).png
-    │   └── Screenshot (170).png
-    └── Brew_Heaven_Coffee_Sales_Dashboard.pbix
+    │   └── cookie-bliss-dashboard.png
+    └── Cookie_Bliss_Sales_Dashboard.pbix
 ```
 
 ---
