@@ -1,7 +1,3 @@
-# Power_BI_Dashboards
-Power BI dashboards built during the Power BI for Beginners: Build your First Report guided project on Coursera
-
-
 # 📊 Power BI Dashboards
 
 > A collection of Power BI dashboards built during the **[Power BI for Beginners: Build your First Report](https://www.coursera.org/learn/powerbi-for-beginners-build-your-first-report/home/welcome)** guided project on Coursera.
